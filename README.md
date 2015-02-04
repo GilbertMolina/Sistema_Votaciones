@@ -8,5 +8,3 @@ Lenguajes de Programación: HTML, CSS, JavaScript y PHP.
 Motor de base de datos: MySQL.
 Entorno de desarrollo: Netbeans.
 Controlador de versiones: Subversion.
-
-Nota: Presionar clic en el nombre del proyecto para redireccionar a la aplicación.
